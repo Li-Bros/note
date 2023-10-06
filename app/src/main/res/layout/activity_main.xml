@@ -92,7 +92,7 @@
             android:id="@+id/Registro"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:backgroundTint="#FF8E2B"
+            android:backgroundTint="@color/button"
             android:text="Registrarse"
             android:textColor="@color/black" />
 
